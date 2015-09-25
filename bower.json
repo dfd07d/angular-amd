@@ -1,0 +1,25 @@
+{
+  "name": "test-ng-amd",
+  "version": "0.0.0",
+  "authors": [
+    "songyuwen <yuwen.song@daocloud.io>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-cookies": "https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.6/angular-cookies.js",
+    "angular-route": "https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.6/angular-route.js",
+    "angular": "https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.6/angular.js",
+    "require": "https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.20/require.js"
+  }
+}
